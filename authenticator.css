@@ -519,7 +519,7 @@ footer p
 footer #disclaimer
 {
     z-index: -1;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
